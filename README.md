@@ -1,4 +1,4 @@
-# dev-meetups
+# Dev Meetups Spring Boot
 
 A aplicação web oferece as seguintes funcionalidades:
 
