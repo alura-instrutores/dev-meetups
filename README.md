@@ -1,2 +1,3 @@
 # dev-meetups
-Projeto de eventos de tecnologia
+
+O Dev Meetups permite o cadastro, listagem e inscrições de eventos de tecnologia.
